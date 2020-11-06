@@ -4,7 +4,7 @@
 title: "Aerial strategies advance volcanic gas measurements at inaccessible, strongly degassing volcanoes"
 authors: [EJ Liu, A Aiuppa, A Alan, S Arellano, M Bitetto, N Bobrowski, S Carn, R Clarke, E Corrales, JM de Moor, JA Diaz, M Edmonds, TP Fischer, J Freer, GM Fricke, B Galle, G Gerdes, G Giudice, A Gutmann, C Hayer, I Itikarai, J Jones, E Mason, BT McCormick Kilbride, K Mulina, S Nowicki, K Rahilly, T Richardson, J Rüdiger, CI Schipper, IM Watson, K Wood]
 date: 2020-10-01
-doi: "https://advances.sciencemag.org/content/6/44/eabb9103.full"
+doi: "10.1126/sciadv.abb9103"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
