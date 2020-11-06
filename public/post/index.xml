@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Brendan McCormick Kilbride</title>
+    <link>https://brendanvolc.github.io/post/</link>
+      <atom:link href="https://brendanvolc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://brendanvolc.github.io/media/avatar.jpg</url>
+      <title>Posts</title>
+      <link>https://brendanvolc.github.io/post/</link>
+    </image>
+    
+  </channel>
+</rss>

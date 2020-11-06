@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Brendan McCormick Kilbride</title>
+    <link>https://brendanvolc.github.io/project/</link>
+      <atom:link href="https://brendanvolc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2020 13:52:49 +0000</lastBuildDate>
+    <image>
+      <url>https://brendanvolc.github.io/media/avatar.jpg</url>
+      <title>Projects</title>
+      <link>https://brendanvolc.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Reconstructing pre-eruptive processes and magma storage conditions</title>
+      <link>https://brendanvolc.github.io/project/volcanic-rocks/</link>
+      <pubDate>Fri, 06 Nov 2020 13:52:49 +0000</pubDate>
+      <guid>https://brendanvolc.github.io/project/volcanic-rocks/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying volcanic gas emissions using drones</title>
+      <link>https://brendanvolc.github.io/project/volcano-drones/</link>
+      <pubDate>Fri, 06 Nov 2020 13:33:39 +0000</pubDate>
+      <guid>https://brendanvolc.github.io/project/volcano-drones/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Volcanic gas chemistry and volatile provenance</title>
+      <link>https://brendanvolc.github.io/project/rabaul-gas-emissions/</link>
+      <pubDate>Fri, 06 Nov 2020 13:28:37 +0000</pubDate>
+      <guid>https://brendanvolc.github.io/project/rabaul-gas-emissions/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

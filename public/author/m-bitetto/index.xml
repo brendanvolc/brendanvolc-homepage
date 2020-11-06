@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Bitetto | Brendan McCormick Kilbride</title>
+    <link>https://brendanvolc.github.io/author/m-bitetto/</link>
+      <atom:link href="https://brendanvolc.github.io/author/m-bitetto/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Bitetto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brendanvolc.github.io/media/avatar.jpg</url>
+      <title>M Bitetto</title>
+      <link>https://brendanvolc.github.io/author/m-bitetto/</link>
+    </image>
+    
+    <item>
+      <title>Aerial strategies advance volcanic gas measurements at inaccessible, strongly degassing volcanoes</title>
+      <link>https://brendanvolc.github.io/publication/liu2020-manam/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://brendanvolc.github.io/publication/liu2020-manam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the SO2 Degassing Budget of Mt Etna&#39;s Paroxysms: First Clues From the December 2015 Sequence</title>
+      <link>https://brendanvolc.github.io/publication/daleo2019-etna/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://brendanvolc.github.io/publication/daleo2019-etna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

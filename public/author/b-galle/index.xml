@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Galle | Brendan McCormick Kilbride</title>
+    <link>https://brendanvolc.github.io/author/b-galle/</link>
+      <atom:link href="https://brendanvolc.github.io/author/b-galle/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Galle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brendanvolc.github.io/media/avatar.jpg</url>
+      <title>B Galle</title>
+      <link>https://brendanvolc.github.io/author/b-galle/</link>
+    </image>
+    
+    <item>
+      <title>Aerial strategies advance volcanic gas measurements at inaccessible, strongly degassing volcanoes</title>
+      <link>https://brendanvolc.github.io/publication/liu2020-manam/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://brendanvolc.github.io/publication/liu2020-manam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

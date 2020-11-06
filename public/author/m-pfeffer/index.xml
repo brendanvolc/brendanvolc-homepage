@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Pfeffer | Brendan McCormick Kilbride</title>
+    <link>https://brendanvolc.github.io/author/m-pfeffer/</link>
+      <atom:link href="https://brendanvolc.github.io/author/m-pfeffer/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Pfeffer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brendanvolc.github.io/media/avatar.jpg</url>
+      <title>M Pfeffer</title>
+      <link>https://brendanvolc.github.io/author/m-pfeffer/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the environmental impacts of large fissure eruptions: Aerosol and gas emissions from the 2014–2015 Holuhraun eruption (Iceland)</title>
+      <link>https://brendanvolc.github.io/publication/ilyinskaya2017-holuhraun/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://brendanvolc.github.io/publication/ilyinskaya2017-holuhraun/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
