@@ -7,7 +7,7 @@ date: 2013-07-11
 doi: "https://sp.lyellcollection.org/content/380/1/259"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-06T11:58:48Z
+publishDate: 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

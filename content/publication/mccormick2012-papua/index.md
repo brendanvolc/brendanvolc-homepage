@@ -7,7 +7,7 @@ date: 2012-03-9
 doi: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011GC003945"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-06T11:58:52Z
+publishDate:
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
