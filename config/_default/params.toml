@@ -97,7 +97,7 @@ address = {street = "Williamson Building, 176 Oxford Road", city = "Manchester",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "53.467077", longitude = "-2.233262"} , 
+coordinates = {latitude = "53.467077", longitude = "-2.233262"}  
 
 # Directions for visitors to locate you.
 directions = "Take the stairs to Office 4.60 on Floor 4"
