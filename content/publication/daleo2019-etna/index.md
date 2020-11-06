@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.frontiersin.org/articles/10.3389/feart.2018.00239/full
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:

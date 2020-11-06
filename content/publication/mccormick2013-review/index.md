@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mccormick2013 Review"
-authors: []
-date: 2020-11-06T11:58:48Z
-doi: ""
+title: "Volcano monitoring applications of the Ozone Monitoring Instrument"
+authors: [Brendan T. McCormick, Marie Edmonds, Tamsin A. Mather, Robin Campion, Catherine S. L. Hayer, Helen E. Thomas and Simon A. Carn]
+date: 2013-07-11
+doi: "https://sp.lyellcollection.org/content/380/1/259"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-06T11:58:48Z
@@ -13,13 +13,13 @@ publishDate: 2020-11-06T11:58:48Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Geological Society, London, Special Publications"
 publication_short: ""
 
-abstract: ""
+abstract: "The Ozone Monitoring Instrument (OMI) is a satellite-based ultraviolet (UV) spectrometer with unprecedented sensitivity to atmospheric sulphur dioxide (SO2) concentrations. Since late 2004, OMI has provided a high-quality SO2 dataset with near-continuous daily global coverage. In this review, we discuss the principal applications of this dataset to volcano monitoring: (1) the detection and tracking of large eruption clouds, primarily for aviation hazard mitigation; and (2) the use of OMI data for long-term monitoring of volcanic degassing. This latter application is relatively novel, and despite showing some promise, requires further study into a number of key uncertainties. We discuss these uncertainties, and illustrate their potential impact on volcano monitoring with OMI through four new case studies. We also discuss potential future avenues of research using OMI data, with a particular emphasis on the need for greater integration between various monitoring strategies, instruments and datasets."
 
 # Summary. An optional shortened abstract.
 summary: ""
