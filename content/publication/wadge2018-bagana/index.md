@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Manam Drones"
-authors: [EJ Liu, AN Other, Yet Another]
-date: 2020-11-06T11:46:57Z
+title: "Wadge2018 Bagana"
+authors: []
+date: 2020-11-06T11:55:58Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-06T11:46:57Z
+publishDate: 2020-11-06T11:55:58Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
