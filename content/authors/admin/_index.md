@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Brendan McCormick Kilbride
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Presidential Fellow (Academic)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Manchester
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include volcanoes and their gas emissions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geochemistry
+- Remote sensing
+- Volcano monitoring
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Earth Sciences
+    institution: University of Cambridge
+    year: 2014
+  - course: MSci in Earth Sciences
+    institution: University of Oxford
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +40,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/brendanvolc
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Myjf2qgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/brendanvolc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a volcanologist, interested in the behaviour of volatiles in magmatic systems and the emissions of gases into the atmosphere. I draw on satellite-, field-, and laboratory-based methods. The key objectives of my research are to understand the origins of the gases emitted by volcanoes, especially in Earth's subduction zones, and relate measurements of gas chemistry and flux to imminent changes in levels of unrest or volcanic eruptions. At the present time, I am particularly interested in the volcanoes of Papua New Guinea, in the Western Bismarck, New Britain and Bougainville subduction zones.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
