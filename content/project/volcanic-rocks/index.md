@@ -39,6 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Studying the chemistry and textures of volcanic rocks can give us valuable insights into the important processes and conditions in magma reservoirs prior to volcanic eruptions. I am currently studying a suite of andesite lavas from Bagana volcano, Bougainville Island.
+
+_Page under construction. Check back soon for updates._
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
