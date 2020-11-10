@@ -40,4 +40,8 @@ url_video: ""
 slides: ""
 ---
 
+Unoccupied aerial vehicles (UAVs), or drones, are transforming our ability to study volcanic emissions, allowing unique access to gas plumes that are otherwise too hazardous or challenging to reach. Beyond visual line of sight flights are particularly exciting, allowing us to launch sensors into gas plumes from several kilometres away.
+
+_Page under construction - check back soon for updates._
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
