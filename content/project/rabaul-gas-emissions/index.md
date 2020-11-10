@@ -40,6 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-Around our planet, hundreds of volcanoes are constantly releasing gas into the atmosphere, even when not erupting. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Around our planet, hundreds of volcanoes are constantly releasing gas into the atmosphere, even when not erupting. Over geological time, this volcanic outgassing is a key control on atmospheric composition, climate change, and planetary habitability, but how does volcanic outgassing vary, in chemical composition, in flux, and over what spatial or temporal scales?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
