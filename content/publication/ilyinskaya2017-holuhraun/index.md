@@ -4,7 +4,7 @@
 title: "Understanding the environmental impacts of large fissure eruptions: Aerosol and gas emissions from the 2014–2015 Holuhraun eruption (Iceland)"
 authors: [E Ilyinskaya, A Schmidt, TA Mather, FD Pope, C Witham, P Baxter, T Jóhannsson, M Pfeffer, S Barsotti, A Singh, P Sanderson, B Bergsson, BT McCormick Kilbride, A Donovan, N Peters, C Oppenheimer, M Edmonds]
 date: 2017-08-15
-doi: ""
+doi: "https://doi.org/10.1016/j.epsl.2017.05.025"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
