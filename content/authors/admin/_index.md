@@ -68,4 +68,4 @@ user_groups:
 
 I am a volcanologist, interested in the behaviour of volatiles in magmatic systems and the emissions of gases into the atmosphere. I draw on satellite-, field-, and laboratory-based methods. The key objectives of my research are to understand the origins of the gases emitted by volcanoes, especially in Earth's subduction zones, and relate measurements of gas chemistry and flux to imminent changes in levels of unrest or volcanic eruptions. At the present time, I am particularly interested in the volcanoes of Papua New Guinea, in the Western Bismarck, New Britain and Bougainville subduction zones.
 
-Lorem lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently looking to recruit a PhD student to conduct research into magmatic volatiles at Rabaul caldera. Scroll down for more details.
